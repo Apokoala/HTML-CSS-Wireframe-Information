@@ -1,0 +1,110 @@
+nav {
+    background-color: rgb(64, 61, 61);
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    padding: 10px 10px;
+    align-items: center;
+
+}
+
+.navButton {
+    background-color: rgb(64, 61, 61);
+    border: 0;
+    color: rgb(198, 187, 187);
+    padding-right: 180px;
+
+}
+
+#navPic {
+
+    padding-right: 40px;
+    vertical-align: middle;
+
+}
+
+#nineSixty {
+    display: flex;
+    justify-content: center;
+    padding: 50px 10px;
+    align-items: center;
+}
+
+#threeThirtySeven {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.three {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#textRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 30px;
+
+}
+
+p {
+    /* overflow: scroll; */
+    height: 350px;
+    width: 440px;
+    color: black;
+    background-color: white;
+}
+
+#left {
+    padding-right: 0px;
+    padding-left:40px;
+    width: 480px;
+    /* border: 30px; */
+
+}
+
+#right {
+    padding-right: 0px;
+    padding-left: 40px;
+    flex-direction: column;
+    width: 480px;
+    height:400px;
+
+    /* background-color: aqua; */
+
+}
+
+embed {
+    width:440px;
+    height:350px;
+    background-color: white;
+    color: black;
+}
+
+#callButton {
+    padding-top: 5px;
+    too
+}
+
+.callTo {
+    background-color: black;
+    color: white;
+    height:27px;
+    width: 150px;
+}
+
+.callTo:hover {
+    background-color: rgb(174, 121, 24);
+}
+
+#footer {
+    background-color: rgb(64, 61, 61);
+    height:90px;
+    margin-top: 40px;
+
+
+}
